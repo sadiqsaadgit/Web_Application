@@ -5,7 +5,7 @@ spring:
     username: postgres
     password: developer@me123
 
-    mail:
+  mail:
     host: smtp.gmail.com
     port: 587
     username: hackestone@gmail.com
